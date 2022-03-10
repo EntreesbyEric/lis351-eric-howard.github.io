@@ -1,0 +1,67 @@
+/*Stylesheet for Main Webpage*/
+
+* {
+	font-family: Georgia;
+	color: 	#000000;
+	text-align: center;
+	}
+	
+body {
+	width: 960px;
+	margin: 10px;
+	background-color: #f3f9d2ff;
+	}
+	
+h1 {
+	margin: 10px;
+	padding: 10px;
+	font-weight: bold;
+	font-family: Garamond;
+}
+	
+nav {
+	background-color: #efefef;
+	padding: 5px;
+	margin: 5px:
+}
+
+li {
+	display: inline;
+	padding: 5px;
+}
+
+section {
+	overflow: auto;
+	height: 100%;
+}
+
+main {
+	background-color: #efefef;
+	padding: 10px;
+	margin: 10px;
+}
+
+article {
+	background-color: #efefef;
+	padding: 10px;
+	margin: 10px;
+	width: 200px;
+	float: left;
+}
+
+footer {
+	background-color: #efefef;
+	padding: 10px;
+	margin: 10px;
+	float: middle;
+}
+	
+#content {
+	overflow: auto;
+	height: 100%;
+	}
+	
+.column1, .column2, .column3 {
+	float: left;
+	margin: 10px;
+	}

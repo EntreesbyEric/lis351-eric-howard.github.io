@@ -1,0 +1,38 @@
+/* Stylesheet for the other 3 webpages */
+
+* {
+	font-family:Verdana, serif;
+	color: #f5eec2;
+	text-align: left;}
+	
+body {
+	width: 960px;
+	margin: 0 auto;
+	background-color: #713a5aff;
+	border: groove}
+	
+#content {
+	overflow: auto;
+	height: 100%;}
+	
+aside {
+	padding-left: 10px;
+	margin-left: 10px;
+	float: right;
+	background-color: #856165ff;
+}
+
+h4 {
+	padding: 10px;
+	margin: 10px;
+	color: #f3f9d2ff;
+	text-align: center;
+	font-size: large;
+	font-stretch: expanded;
+	text-decoration-line: underline;
+	letter-spacing: 2px;
+}
+	
+.column1, .column2, .column3 {
+	float: left;
+	margin: 10px;}
